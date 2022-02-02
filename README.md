@@ -1,2 +1,2 @@
 # MicroBit-clanki
-Koda k člamkom, ki vsebujejo samo MicroBit
+Koda k člankom, ki vsebujejo samo MicroBit
